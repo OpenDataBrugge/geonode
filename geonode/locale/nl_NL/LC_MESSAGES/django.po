@@ -93,7 +93,7 @@ msgstr ""
 
 #: geonode/base/enumerations.py:39
 msgid "characteristic of a feature"
-msgstr ""
+msgstr "kenmerken van een feature"
 
 #: geonode/base/enumerations.py:40
 msgid "tile or spatial subset of geographic data"
@@ -178,7 +178,7 @@ msgstr "Categorie is verplicht."
 
 #: geonode/base/forms.py:232
 msgid "Keywords from Thesaurus"
-msgstr ""
+msgstr "Trefwoorden afkoms"
 
 #: geonode/base/forms.py:234
 msgid "List of keywords from Thesaurus"
@@ -260,7 +260,7 @@ msgstr "Een spatie of komma-gescheiden lijst van trefwoorden"
 #: geonode/templates/metadata_detail.html:98
 #: geonode/templates/search/_region_filter.html:5
 msgid "Regions"
-msgstr "Streken"
+msgstr "Regio"
 
 #: geonode/base/models.py:80 geonode/services/models.py:106
 msgid "function performed by the responsible party"
@@ -276,7 +276,7 @@ msgstr ""
 
 #: geonode/base/models.py:431
 msgid "version of the cited resource"
-msgstr "versie van de geciteerde bron"
+msgstr "versie geciteerde bron"
 
 #: geonode/base/models.py:432
 msgid "brief narrative summary of the content of the resource(s)"
@@ -1280,11 +1280,11 @@ msgstr "Openbaar"
 
 #: geonode/groups/models.py:65
 msgid "Public (invite-only)"
-msgstr "Openbaar (uitnodiging)"
+msgstr "Openbaar (enkel op uitnodiging)"
 
 #: geonode/groups/models.py:66
 msgid "Private"
-msgstr "Privé "
+msgstr "Privaat "
 
 #: geonode/groups/models.py:69
 msgid ""
@@ -1340,29 +1340,29 @@ msgstr ""
 
 #: geonode/groups/models.py:258
 msgid "Sent"
-msgstr ""
+msgstr "Verzonden"
 
 #: geonode/groups/models.py:259
 msgid "Accepted"
-msgstr ""
+msgstr "Aanvaard"
 
 #: geonode/groups/models.py:260
 msgid "Declined"
-msgstr ""
+msgstr "Afgewezen"
 
 #: geonode/groups/templates/groups/activity.html:7
 #: geonode/groups/templates/groups/activity.html:8
 #: geonode/groups/templates/groups/activity.html:19
 #: geonode/templates/actstream/actor.html:19
 msgid "Activity Feed for"
-msgstr ""
+msgstr "Activiteiten voor"
 
 #: geonode/groups/templates/groups/activity.html:25
 #: geonode/groups/templates/groups/group_members.html:13
 #: geonode/social/templates/social/activity_list.html:20
 #: geonode/templates/user_messages/inbox.html:16
 msgid "All"
-msgstr ""
+msgstr "Iedereen"
 
 #: geonode/groups/templates/groups/activity.html:26
 #: geonode/people/templates/people/_profile_filters.html:5
@@ -1421,7 +1421,7 @@ msgstr "Verken groepen"
 #: geonode/groups/templates/groups/group_base.html:14
 #: geonode/groups/templates/groups/group_create.html:11
 msgid "Create a Group"
-msgstr ""
+msgstr "Maak een nieuwe groep"
 
 #: geonode/groups/templates/groups/group_base.html:16
 #: geonode/groups/templates/groups/group_update.html:11
@@ -1449,7 +1449,7 @@ msgstr "Deze groep heeft nog geen logo."
 
 #: geonode/groups/templates/groups/group_detail.html:62
 msgid "Edit Group Details"
-msgstr ""
+msgstr "Editeer groep"
 
 #: geonode/groups/templates/groups/group_detail.html:63
 msgid "Manage Group Members"
